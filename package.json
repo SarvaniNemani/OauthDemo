@@ -1,0 +1,25 @@
+{
+  "name": "oauthdemo",
+  "version": "1.0.0",
+  "description": "OAUTH:\r --   https://appitchat.slack.com/archives/D01FPDJAP36/p1608615891004300",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-status-codes": "^2.1.4",
+    "knex": "^0.21.12",
+    "moment": "^2.29.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}
